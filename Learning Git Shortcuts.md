@@ -8,9 +8,9 @@
 ---
 *-repo:* Repository -> is like a folder with all data in it. (Project-folder)
 ---
-*-branch:* Is a external path from master branch. Used for new Content. use
+*-branch:* Is a external path from master branch. Used for new Content.
 ---
-*-checkout:* Used to switch branches. use `git checkout -b "new branch name"` to create new branch and immediatly jump to it
+*-checkout:* Used to switch branches. Use `git checkout -b "new branch name"` to create new branch and immediatly jump to it
 ---
 *-log:* Shows up Changes were made
 ---
