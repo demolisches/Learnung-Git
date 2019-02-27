@@ -1,39 +1,39 @@
 # **GITHUB CheatSheet**
 
-- *push:* giving new Content into Repository
+- **_push:_** giving new Content into Repository
 
 ---
-- *pull:* getting Content from Repository
+- **_pull:_** getting Content from Repository
 
 ---
-- *merge:* combine Content with Repository
+- **_merge:_** combine Content with Repository
 
 ---
-- *repo:* Repository -> is like a folder with all data in it. (Project-folder)
+- **_repo:_** Repository -> is like a folder with all data in it. (Project-folder)
 
 ---
-- *branch:* Is a external path from master branch. Used for new Content.
+- **_branch:_** Is a external path from master branch. Used for new Content.
 
 ---
-- *checkout:* Used to switch branches. Use `git checkout -b "new branch name"` to create new branch and immediatly jump to it
+- **_checkout:_** Used to switch branches. Use `git checkout -b "new branch name"` to create new branch and immediatly jump to it
 
 ---
-- *log:* Shows up Changes were made
+- **_log:_** Shows up Changes were made
 
 ---
-- *fork:* Makes a Copy of an Repository (server-sided)
+- **_fork:_** Makes a Copy of an Repository (server-sided)
 
 ---
-- *clone:* Clones a Repository, to work on a standalone Version local on the Mashine
+- **_clone:_** Clones a Repository, to work on a standalone Version local on the Mashine
 
 ---
-- *status:* Shows if everything is live or if merge is needed
+- **_status:_** Shows if everything is live or if merge is needed
 
 ---
-- *commit:* Saving Changes with original (master) (forked)
+- **_commit:_** Saving Changes with original (master) (forked)
 
 ---
-- *rebase:*
+- **_rebase:_**
 
 ---
 [GIT HELP](https://git-scm.com/docs) |
